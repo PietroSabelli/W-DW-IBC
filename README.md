@@ -1,2 +1,3 @@
 # W-DW-IBC
-On the relationship between well-founded sets and inductive generation of pointfree topology
+Agda code for the results presented in the talk
+"On the relationship between well-founded sets and inductive generation of pointfree topology"
